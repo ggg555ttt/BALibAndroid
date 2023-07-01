@@ -1,6 +1,6 @@
 # Uma Library Android
 
-A library of doujin articles of _Umamusume: Pretty Derby_
+A library of doujin articles of _Blue Archive_
 
 ## How to Contribute
 
