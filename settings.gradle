@@ -29,6 +29,6 @@ pluginManagement {
 //        maven { url "https://maven.admobile.top/repository/maven-releases/" }
 //    }
 //}
-rootProject.name = "UmaLibAndroid"
+rootProject.name = "BALibAndroid"
 include ':app'
 include ':preference'
