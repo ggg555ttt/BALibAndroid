@@ -46,7 +46,7 @@
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="cn.umafan.lib.android.fileprovider"
+            android:authorities="cc.kivo.lib.android.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data

@@ -8,7 +8,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "cn.umafan.lib.android"
+        applicationId "cc.kivo.lib.android"
         minSdk 26
         targetSdk 31
         versionCode 2
@@ -37,7 +37,7 @@ android {
     buildFeatures {
         viewBinding true
     }
-    namespace 'cn.umafan.lib.android'
+    namespace 'cc.kivo.lib.android'
 }
 
 

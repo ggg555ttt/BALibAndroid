@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:background="?attr/backgroundColor"
     android:overScrollMode="always"
-    tools:context="cn.umafan.lib.android.ui.thanks.ThanksFragment">
+    tools:context="cc.kivo.lib.android.ui.thanks.ThanksFragment">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
